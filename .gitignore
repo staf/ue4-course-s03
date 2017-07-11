@@ -5,5 +5,5 @@ DerivedDataCache/
 Intermediate/
 Saved/
 Content/StarterContent/
-
 *_BuiltData.uasset
+*.VC.db
